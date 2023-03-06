@@ -6,7 +6,11 @@ Planned Functionality
 
 
 Depositing 
+
 Withdrawing
+
 Sending other accounts money
+
 Storing username and passwords in a database and storing them as hashes
+
 Verification of both accounts utalizing key swap 
