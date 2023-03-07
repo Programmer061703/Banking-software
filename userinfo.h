@@ -30,6 +30,7 @@ private:
 string password;
 string username;
 string user_ID;
+string hash;
 
 
 
